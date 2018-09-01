@@ -1,0 +1,8 @@
+#include "hw.h"
+
+
+void 1(void)
+{
+  bspInit();
+
+}
